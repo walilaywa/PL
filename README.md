@@ -14,6 +14,7 @@
 
 [0915作品2-法官調節遊戲](https://github.com/walilaywa/PL/blob/main/python02.ipynb)
 
+[0915作品3-絕對獲勝的AI猜拳遊戲](https://github.com/walilaywa/PL/blob/main/python_3.ipynb)
 
 ### 自我練習
 #### 文字輸入、變數輸入、簡單數字運算
