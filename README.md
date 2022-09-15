@@ -1,5 +1,4 @@
-# PL
-### 111-1師大科技系
+# 111-1師大科技系
 
 學生：吳沛龍
 
@@ -7,4 +6,14 @@
 
 系級：科技碩二年級
 
+
+### 課堂練習區
+#### 0915作品
+
 [0915作品1-百元複利計算](https://github.com/walilaywa/PL/blob/main/python01.ipynb)
+
+[0915作品2-法官調節遊戲](https://github.com/walilaywa/PL/blob/main/python02.ipynb)
+
+
+### 自我練習
+#### 文字輸入、變數輸入、簡單數字運算
