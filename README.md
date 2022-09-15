@@ -17,4 +17,11 @@
 [0915作品3-絕對獲勝的AI猜拳遊戲](https://github.com/walilaywa/PL/blob/main/python_3.ipynb)
 
 ### 自我練習
+
 #### 文字輸入、變數輸入、簡單數字運算
+
+
+
+
+#### 流放在邊疆地帶
+[練習](http://localhost:8888/notebooks/Documents/GitHub/PL/prac01.ipynb)
