@@ -16,6 +16,9 @@
 
 [0915作品3-絕對獲勝的AI猜拳遊戲](https://github.com/walilaywa/PL/blob/main/python_3.ipynb)
 
+#### 0929作品
+[DICTIONARY練習1](https://github.com/walilaywa/PL/blob/main/0929_pratice.ipynb)
+
 ### 自我練習
 
 ### 作業繳交區
