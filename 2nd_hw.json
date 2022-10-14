@@ -2,7 +2,7 @@
   "elevator": [
     {
       "num": "first",
-      "times": 20,
+      "times": 60,
       "user_floor": [
         "2nd",
         "4th",
@@ -25,7 +25,7 @@
     },
     {
       "num": "3rd",
-      "times": 70,
+      "times": 40,
       "user_floor": [
         "11th",
         "12th",
@@ -36,7 +36,7 @@
     },
     {
       "num": "4th",
-      "times": 120,
+      "times": 80,
       "user_floor": [
         "3rd",
         "11th",
