@@ -1,0 +1,50 @@
+{
+  "elevator": [
+    {
+      "num": "first",
+      "times": 20,
+      "user_floor": [
+        "2nd",
+        "4th",
+        "6th",
+        "8th"
+      ]
+    },
+    {
+      "num": "2nd",
+      "times": 50,
+      "user_floor": [
+        "3rd",
+        "4th",
+        "5th",
+        "6th",
+        "8th",
+        "9th",
+        "13th"
+      ]
+    },
+    {
+      "num": "3rd",
+      "times": 70,
+      "user_floor": [
+        "11th",
+        "12th",
+        "13th",
+        "15th",
+        "18th"
+      ]
+    },
+    {
+      "num": "4th",
+      "times": 120,
+      "user_floor": [
+        "3rd",
+        "11th",
+        "12th",
+        "14th",
+        "15th",
+        "17th"
+      ]
+    }
+  ]
+}
