@@ -32,6 +32,10 @@
 
 -02.[json檔](https://github.com/walilaywa/PL/blob/main/HW3.json)
 
+[期限1116](https://github.com/walilaywa/PL/blob/main/HW04_try.ipynb)
+
+[文章連結區](https://medium.com/@walilaywa/書報討論-一-第一次演講大家問題重點-關鍵字分析-84b3da1c30c2)
+
 #### 文字輸入、變數輸入、簡單數字運算
 
 
