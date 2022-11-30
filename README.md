@@ -55,6 +55,26 @@ jˋ
 
 -HW4-爬取GOOGLE評論+文字雲
 
+[陳*竹](https://github.com/awchu0323/PL)
+
+-HW4-資料統整-初步整理
+
+[陳思*](https://github.com/ssutsen/PL)
+
+-HW4-新聞標題統整
+
+[簡*軒](https://github.com/cpeggy/PL)
+
+-HW4-圖表分析
+
+[張*云](https://github.com/41071119H-Irene/PL)
+
+-HW4-GOOGLE評論飲料店
+
+[李**](https://github.com/alan88888/PL)
+
+-HW4-JIEBA放入字典檔
+
 #### 流放在邊疆地帶
 [練習](http://localhost:8888/notebooks/Documents/GitHub/PL/prac01.ipynb)
 #### 可以用來參考的說明文件
