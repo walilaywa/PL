@@ -38,7 +38,9 @@ jˋ
 
 [期限1201](https://github.com/walilaywa/PL/blob/main/20221123_PRA.ipynb)
 
-[文章連結區](https://medium.com/@walilaywa/%E7%88%AC%E8%9F%B2%E6%95%99%E5%AD%B8-%E9%81%B8%E8%88%89%E5%89%8D%E7%9A%84%E9%AB%98%E5%AE%89%E5%AE%89%E6%96%B0%E8%81%9E-6534cb44db4d)
+[文章連結區-第一階段](https://medium.com/@walilaywa/%E7%88%AC%E8%9F%B2%E6%95%99%E5%AD%B8-%E9%81%B8%E8%88%89%E5%89%8D%E7%9A%84%E9%AB%98%E5%AE%89%E5%AE%89%E6%96%B0%E8%81%9E-6534cb44db4d)
+
+[文章連結區-第二階段](https://medium.com/@walilaywa/文字分析-選舉前的高安安新聞-第二階段-44c5e98c5ed7)
 
 #### 文字輸入、變數輸入、簡單數字運算
 
